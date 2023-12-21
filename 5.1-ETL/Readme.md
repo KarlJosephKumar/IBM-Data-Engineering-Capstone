@@ -31,4 +31,5 @@ See insert_records.jpg
 ### Task 4 - Test the data synchronization
 
 Run the program automation.py and test if the synchronization is happening as expected.
+
 See synchronization.jpg
